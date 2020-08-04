@@ -1,0 +1,73 @@
+[
+  {
+    "Id": "10bc90fd-e254-4c79-b9c7-11599fcbc190",
+    "Title": "FUNDAMENTAL",
+    "Image": "images/playlists/excel_quick_start.png",
+    "LevelId": "c3cd9fc7-3ff3-4598-9f13-4a2fbaf6a513",
+    "AudienceId": "66a6e393-0d60-4992-986b-cc7658b830cd",
+    "TechnologyId": "ecbb4b51-fc08-4fcc-a0e3-a19bef1e463a",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "f654cdc0-a541-48bc-937a-626be96c237b",
+    "Description": "Get up and running quickly with our Excel Quick Start. Learn how to create a workbook, save to OneDrive, analyze and format data, and share workbooks.",
+    "StatusTagId": "",
+    "StatusNote": null,
+    "Assets": [
+      "94b00f50-5896-479c-b0c5-ff74603b35a3",
+      "11a632c1-197e-454f-a515-374a4aa2b3dd"
+    ]
+  },
+  {
+    "Id": "f6f400b5-db67-47ef-8e51-6301e423e169",
+    "Title": "STREAMLINED",
+    "Image": "images/playlists/welcome_to_excel.png",
+    "LevelId": "97946dda-fd28-44fb-a1a4-029ff8fc6df1",
+    "AudienceId": "464da9ad-43ae-44c1-8c19-ae669bf47627",
+    "TechnologyId": "938039ff-7c08-490a-8f14-898a57dafdf8",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "41c9eb43-be70-4b86-a064-9e56b010df40",
+    "Description": "Create a new workbook or insert a worksheet. Learn how to use Excel as your calculator or autofill data in cells.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "82e9eab2-2e4e-463a-baa5-669b6c8ac543",
+      "861d97cb-3b33-4978-92e4-9446dc19b8da"
+    ]
+  },
+  {
+    "Id": "9f563a98-d543-4177-9f24-026c6298ad3b",
+    "Title": "MANAGED",
+    "Image": "images/playlists/rows_and_columns.png",
+    "LevelId": "c103c612-b994-4d01-8c0d-d84457513d65",
+    "AudienceId": "464da9ad-43ae-44c1-8c19-ae669bf47627",
+    "TechnologyId": "dd782061-8953-4776-adbf-65908d49fb90",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "39f74e16-dbfc-4b1d-83eb-1cbfb8a2d880",
+    "Description": "Add columns, rows, or cells to an Excel worksheet or delete them. Freeze panes, hide or show rows and columns or filter for unique values.",
+    "StatusTagId": "",
+    "StatusNote": null,
+    "Assets": [
+      "0cf0055d-49f8-464e-9dfa-8f582b32453b",
+      "11a632c1-197e-454f-a515-374a4aa2b3dd"
+    ]
+  },
+  {
+    "Id": "890ece55-a021-4152-a018-86fa2a74f5f4",
+    "Title": "UNIVERSAL",
+    "Image": "images/playlists/cells.png",
+    "LevelId": "97946dda-fd28-44fb-a1a4-029ff8fc6df1",
+    "AudienceId": "464da9ad-43ae-44c1-8c19-ae669bf47627",
+    "TechnologyId": "0eb5e2cb-b0a5-4395-b846-6074b6f785fc",
+    "SubjectId": "",
+    "Source": "SharePoint",
+    "CatId": "f26a0578-0c10-49f8-b1b8-a1d3117c55c1",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "StatusTagId": "",
+    "StatusNote": null,
+    "Assets": [
+      "c5ee4578-4bc2-47d4-b87c-8fe86bd099b0"
+    ]
+  }
+]

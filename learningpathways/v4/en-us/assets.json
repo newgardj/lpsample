@@ -1,0 +1,46 @@
+[
+  {
+    "Id": "94b00f50-5896-479c-b0c5-ff74603b35a3",
+    "Title": "Create a worksheet",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/94b00f50-5896-479c-b0c5-ff74603b35a3?embed=true",
+    "TechnologyId": "ecbb4b51-fc08-4fcc-a0e3-a19bef1e463a",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "0cf0055d-49f8-464e-9dfa-8f582b32453b",
+    "Title": "Save your workbook to OneDrive",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/0cf0055d-49f8-464e-9dfa-8f582b32453b?embed=true",
+    "TechnologyId": "938039ff-7c08-490a-8f14-898a57dafdf8",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "11a632c1-197e-454f-a515-374a4aa2b3dd",
+    "Title": "Analyze and format",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/11a632c1-197e-454f-a515-374a4aa2b3dd?embed=true",
+    "TechnologyId": "dd782061-8953-4776-adbf-65908d49fb90",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "c5ee4578-4bc2-47d4-b87c-8fe86bd099b0",
+    "Title": "CUSTOM-SP-PAGE",
+    "Description": "",
+    "Url": "https://m365x055581.sharepoint.com/sites/M365LP1/SitePages/Custom-Asset.aspx?embed=true",
+    "TechnologyId": "0eb5e2cb-b0a5-4395-b846-6074b6f785fc",
+    "SubjectId": "",
+    "Source": "SharePoint",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }
+]

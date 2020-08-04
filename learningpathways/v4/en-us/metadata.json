@@ -1,0 +1,151 @@
+{
+  "Technologies": [
+    {
+      "Id": "ecbb4b51-fc08-4fcc-a0e3-a19bef1e463a",
+      "Name": "Red",
+      "Subjects": []
+    },
+    {
+      "Id": "938039ff-7c08-490a-8f14-898a57dafdf8",
+      "Name": "Blue",
+      "Subjects": []
+    },
+    {
+      "Id": "dd782061-8953-4776-adbf-65908d49fb90",
+      "Name": "Yellow",
+      "Subjects": [
+        {
+          "Id": "0eb5e2cb-b0a5-4395-b846-6074b6f785fc",
+          "Name": "Green"
+        },
+        {
+          "Id": "98c9fc11-7dee-4238-8c14-9d4f75d9b64e",
+          "Name": "Indigo"
+        }
+      ]
+    }
+  ],
+  "Categories": [
+    {
+      "Id": "f654cdc0-a541-48bc-937a-626be96c237b",
+      "Name": "ONE",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+        {
+          "Id": "41c9eb43-be70-4b86-a064-9e56b010df40",
+          "Name": "ONE-A",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "b8e25e9a-ac66-4f3f-b495-6733aad8a5a2",
+          "Name": "ONE-B",
+          "Image": "images/categories/recommended.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "39f74e16-dbfc-4b1d-83eb-1cbfb8a2d880",
+      "Name": "TWO",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+        {
+          "Id": "f26a0578-0c10-49f8-b1b8-a1d3117c55c1",
+          "Name": "TWO-A",
+          "Image": "images/categories/modern_workplace_trainingx.png",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "40a73dc5-a911-41c5-b264-8abace0494f0",
+          "Name": "TWO-B",
+          "Image": "images/categories/work_remotely.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        }
+      ]
+    }
+  ],
+  "Audiences": [
+    {
+      "Id": "c149adb5-2058-43c1-92d4-6761da44407a",
+      "Name": "Admin"
+    },
+    {
+      "Id": "66a6e393-0d60-4992-986b-cc7658b830cd",
+      "Name": "HelpDesk"
+    },
+    {
+      "Id": "9b50a6de-92ae-4bf3-8a32-cf09228d9ff6",
+      "Name": "End User"
+    },
+    {
+      "Id": "464da9ad-43ae-44c1-8c19-ae669bf47627",
+      "Name": "All"
+    }
+  ],
+  "Sources": [
+    "SOC",
+    "FastTrack",
+    "M365",
+    "Microsoft",
+    "LinkedIn",
+    "SharePoint"
+  ],
+  "Levels": [
+    {
+      "Id": "c3cd9fc7-3ff3-4598-9f13-4a2fbaf6a513",
+      "Name": "Beginner"
+    },
+    {
+      "Id": "97946dda-fd28-44fb-a1a4-029ff8fc6df1",
+      "Name": "Intermediate"
+    },
+    {
+      "Id": "c103c612-b994-4d01-8c0d-d84457513d65",
+      "Name": "Advanced"
+    }
+  ],
+  "StatusTag": [
+    {
+      "Id": "66db3d5a-4123-47a7-842f-0d3551c8e2ba",
+      "Name": "New"
+    },
+    {
+      "Id": "fa1047ce-4af2-4837-a77d-66f41394874d",
+      "Name": "Beta"
+    }
+  ],
+  "Telemetry": {
+    "AppInsightKey": "089e14f6-1341-44b8-9135-71b3e326e914"
+  },
+  "Version": {
+    "Manifest": "v4",
+    "ManifestMinWebPart": "4.0.0",
+    "CurrentWebPart": "4.1.2",
+    "RepoURL": "https://github.com/pnp/custom-learning-office-365#updating-the-solution"
+  },
+  "ContentPacks": [],
+  "AssetOrigins": [
+    "https://support.office.com",
+    "https://docs.microsoft.com",
+    "https://m365x055581.sharepoint.com"
+  ]
+}
